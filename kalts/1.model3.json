@@ -1,0 +1,79 @@
+{
+  "ConfVer": 1,
+  "Type": 0,
+  "FileReferences": {
+    "Moc": "Moc.moc3",
+    "Textures": [
+      "Textures_.png",
+      "Textures__1.png",
+      "Textures__10.png",
+      "Textures__11.png",
+      "Textures__12.png",
+      "Textures__13.png",
+      "Textures__14.png",
+      "Textures__15.png",
+      "Textures__16.png",
+      "Textures__17.png",
+      "Textures__18.png",
+      "Textures__2.png",
+      "Textures__3.png",
+      "Textures__4.png",
+      "Textures__5.png",
+      "Textures__6.png",
+      "Textures__7.png",
+      "Textures__8.png",
+      "Textures__9.png"
+    ],
+    "Physics": "Physics.json",
+    "PhysicsV2": {
+      "File": "Physics.json"
+    }
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {},
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "Enabled": true
+    },
+    "HandTracking": {},
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {}
+  },
+  "Options": {
+    "ScaleFactor": 2.50000072,
+    "TexType": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "Moc.moc3",
+  "textures": [
+    "Textures_.png",
+    "Textures__1.png"
+  ],
+  "physics": "Physics.json",
+  "motions": {
+    "idle": [
+      { "file": "Motions_Idle_0.json" },
+      { "file": "Motions_Idle_1.json" },
+      { "file": "Motions_Idle_2.json" }
+    ],
+    "tap": [
+      { "file": "Motions_TapLegA_0.json" },
+      { "file": "Motions_TapArmpit_0.json" },
+      { "file": "Motions_ShoesA_0.json" },
+      { "file": "Motions_TapHead_0.json" },
+      { "file": "Motions_TapFoot_0.json" },
+      { "file": "Motions_TapBody_0.json" },
+      { "file": "Motions_TapHipC2_0.json" }
+    ],
+    "login": [
+      { "file": "Motions_Case_9.json" }
+    ],
+    "case": [
+      { "file": "Motions_Case_5.json" },
+      { "file": "Motions_Case_7.json" },
+      { "file": "Motions_Case_8.json" },
+      { "file": "Motions_Case_9.json" }
+    ]
+  },
+  "hit_areas": [
+    { "name": "head", "id": "D_REF.HEAD" },
+    { "name": "body", "id": "D_REF.BODY" },
+    { "name": "leg", "id": "D_REF.LEG" }
+  ]
+}

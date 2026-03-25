@@ -1,0 +1,487 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "望远镜火"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamArmL",
+      "GroupId": "",
+      "Name": "左上臂"
+    },
+    {
+      "Id": "ParamArmL1",
+      "GroupId": "",
+      "Name": "左前臂"
+    },
+    {
+      "Id": "ParamArmL2",
+      "GroupId": "",
+      "Name": "左前臂2"
+    },
+    {
+      "Id": "ParamArmR",
+      "GroupId": "",
+      "Name": "右上臂"
+    },
+    {
+      "Id": "ParamArmR1",
+      "GroupId": "",
+      "Name": "右前臂"
+    },
+    {
+      "Id": "ParamBlack0",
+      "GroupId": "",
+      "Name": "黑幕前"
+    },
+    {
+      "Id": "ParamBlack1",
+      "GroupId": "",
+      "Name": "黑幕底"
+    },
+    {
+      "Id": "ParamBlack2",
+      "GroupId": "",
+      "Name": "镜头前"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "身体旋转　Y"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBoli",
+      "GroupId": "",
+      "Name": "玻璃碎裂"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "GroupId": "",
+      "Name": "左眉　変形"
+    },
+    {
+      "Id": "ParamClothes",
+      "GroupId": "",
+      "Name": "服摇Z"
+    },
+    {
+      "Id": "ParamClothesY",
+      "GroupId": "",
+      "Name": "服摇Z2"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼球 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼球 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼"
+    },
+    {
+      "Id": "ParamFingerR",
+      "GroupId": "",
+      "Name": "右手指"
+    },
+    {
+      "Id": "ParamFire1",
+      "GroupId": "",
+      "Name": "火焰"
+    },
+    {
+      "Id": "ParamFire2",
+      "GroupId": "",
+      "Name": "火焰2"
+    },
+    {
+      "Id": "ParamFS1",
+      "GroupId": "",
+      "Name": "飞石1"
+    },
+    {
+      "Id": "ParamFS2",
+      "GroupId": "",
+      "Name": "飞石2"
+    },
+    {
+      "Id": "ParamFS3",
+      "GroupId": "",
+      "Name": "飞石3"
+    },
+    {
+      "Id": "ParamFS4",
+      "GroupId": "",
+      "Name": "飞石4"
+    },
+    {
+      "Id": "ParamFXX",
+      "GroupId": "",
+      "Name": "飞行器X"
+    },
+    {
+      "Id": "ParamFXY",
+      "GroupId": "",
+      "Name": "飞行器Y"
+    },
+    {
+      "Id": "ParamGuangli",
+      "GroupId": "",
+      "Name": "光粒"
+    },
+    {
+      "Id": "ParamHaiFrontY",
+      "GroupId": "",
+      "Name": "前发Y"
+    },
+    {
+      "Id": "ParamHairBack",
+      "GroupId": "",
+      "Name": "后发1"
+    },
+    {
+      "Id": "ParamHairBackY",
+      "GroupId": "",
+      "Name": "后发Y"
+    },
+    {
+      "Id": "ParamHairFront",
+      "GroupId": "",
+      "Name": "前发1"
+    },
+    {
+      "Id": "ParamHairFront2",
+      "GroupId": "",
+      "Name": "前发2"
+    },
+    {
+      "Id": "ParamHairFront2Y",
+      "GroupId": "",
+      "Name": "前发2Y"
+    },
+    {
+      "Id": "ParamHairFront3",
+      "GroupId": "",
+      "Name": "前发3"
+    },
+    {
+      "Id": "ParamHairFront3Y",
+      "GroupId": "",
+      "Name": "前发3Y"
+    },
+    {
+      "Id": "ParamHairFrontY",
+      "GroupId": "",
+      "Name": "侧发Y"
+    },
+    {
+      "Id": "ParamHairSide",
+      "GroupId": "",
+      "Name": "侧发1"
+    },
+    {
+      "Id": "ParamHairSide2",
+      "GroupId": "",
+      "Name": "侧发2"
+    },
+    {
+      "Id": "ParamHairSide2y",
+      "GroupId": "",
+      "Name": "侧发2Y"
+    },
+    {
+      "Id": "ParamHandL",
+      "GroupId": "",
+      "Name": "左手腕"
+    },
+    {
+      "Id": "ParamHandR",
+      "GroupId": "",
+      "Name": "右手腕"
+    },
+    {
+      "Id": "ParamHBO",
+      "GroupId": "",
+      "Name": "角色 缩放"
+    },
+    {
+      "Id": "ParamHBX",
+      "GroupId": "",
+      "Name": "角色 X"
+    },
+    {
+      "Id": "ParamHBY2",
+      "GroupId": "",
+      "Name": "角色 Y"
+    },
+    {
+      "Id": "ParamHBZ2",
+      "GroupId": "",
+      "Name": "角色 Z"
+    },
+    {
+      "Id": "ParamHipX",
+      "GroupId": "",
+      "Name": "Hip x"
+    },
+    {
+      "Id": "ParamLegL",
+      "GroupId": "",
+      "Name": "左大腿"
+    },
+    {
+      "Id": "ParamLegL1",
+      "GroupId": "",
+      "Name": "左小腿"
+    },
+    {
+      "Id": "ParamLegR",
+      "GroupId": "",
+      "Name": "右大腿"
+    },
+    {
+      "Id": "ParamLegR1",
+      "GroupId": "",
+      "Name": "右小腿"
+    },
+    {
+      "Id": "ParamLegRY",
+      "GroupId": "",
+      "Name": "右大腿Y"
+    },
+    {
+      "Id": "ParamLjian",
+      "GroupId": "",
+      "Name": "左肩"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴 开闭"
+    },
+    {
+      "Id": "ParamMouthOpenY2",
+      "GroupId": "",
+      "Name": "嘴 开闭K"
+    },
+    {
+      "Id": "ParamO",
+      "GroupId": "",
+      "Name": "主体O"
+    },
+    {
+      "Id": "ParamOpaishakeO",
+      "GroupId": "",
+      "Name": "乳摇O"
+    },
+    {
+      "Id": "ParamOpaishakeX",
+      "GroupId": "",
+      "Name": "乳摇X"
+    },
+    {
+      "Id": "ParamOpaishakeY",
+      "GroupId": "",
+      "Name": "乳摇Y"
+    },
+    {
+      "Id": "ParamSkirt2",
+      "GroupId": "",
+      "Name": "裙摇2"
+    },
+    {
+      "Id": "ParamSkirt2Y",
+      "GroupId": "",
+      "Name": "裙摇2Y"
+    },
+    {
+      "Id": "ParamSkirt3",
+      "GroupId": "",
+      "Name": "裙摇3"
+    },
+    {
+      "Id": "ParamSkirt3Y",
+      "GroupId": "",
+      "Name": "裙摇3Y"
+    },
+    {
+      "Id": "ParamStar1",
+      "GroupId": "",
+      "Name": "星星1"
+    },
+    {
+      "Id": "ParamStar2",
+      "GroupId": "",
+      "Name": "星星2"
+    },
+    {
+      "Id": "ParamStar3",
+      "GroupId": "",
+      "Name": "星星3"
+    },
+    {
+      "Id": "ParamSuilie",
+      "GroupId": "",
+      "Name": "碎裂"
+    },
+    {
+      "Id": "ParamWYJH1",
+      "GroupId": "",
+      "Name": "望远镜火A"
+    },
+    {
+      "Id": "ParamWYJH2",
+      "GroupId": "",
+      "Name": "望远镜火B"
+    },
+    {
+      "Id": "ParamWYJX",
+      "GroupId": "",
+      "Name": "望远镜x"
+    },
+    {
+      "Id": "ParamWYJZ",
+      "GroupId": "",
+      "Name": "望远镜z"
+    },
+    {
+      "Id": "ParamX",
+      "GroupId": "",
+      "Name": "主体X"
+    },
+    {
+      "Id": "ParamY",
+      "GroupId": "",
+      "Name": "主体Y"
+    },
+    {
+      "Id": "ParamZ",
+      "GroupId": "",
+      "Name": "主体Z"
+    },
+    {
+      "Id": "ParamZhuzhen1",
+      "GroupId": "",
+      "Name": "逐帧1"
+    },
+    {
+      "Id": "ParamZhuzhen2",
+      "GroupId": "",
+      "Name": "逐帧2"
+    },
+    {
+      "Id": "ParamZhuzhen3",
+      "GroupId": "",
+      "Name": "逐帧 显示"
+    },
+    {
+      "Id": "ParamZT",
+      "GroupId": "",
+      "Name": "主体显隐"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "Part",
+      "Name": "玻璃碎"
+    },
+    {
+      "Id": "Part10",
+      "Name": "后发"
+    },
+    {
+      "Id": "Part11",
+      "Name": "背景"
+    },
+    {
+      "Id": "Part12",
+      "Name": "望远镜"
+    },
+    {
+      "Id": "Part13",
+      "Name": "长马尾"
+    },
+    {
+      "Id": "Part14",
+      "Name": "右臂"
+    },
+    {
+      "Id": "Part15",
+      "Name": "部件28"
+    },
+    {
+      "Id": "Part16",
+      "Name": "逐帧"
+    },
+    {
+      "Id": "Part2",
+      "Name": "前景"
+    },
+    {
+      "Id": "Part3",
+      "Name": "碎块"
+    },
+    {
+      "Id": "Part4",
+      "Name": "角色"
+    },
+    {
+      "Id": "Part5",
+      "Name": "头"
+    },
+    {
+      "Id": "Part6",
+      "Name": "脸"
+    },
+    {
+      "Id": "Part7",
+      "Name": "腿"
+    },
+    {
+      "Id": "Part8",
+      "Name": "左臂"
+    },
+    {
+      "Id": "Part9",
+      "Name": "身体"
+    }
+  ]
+}

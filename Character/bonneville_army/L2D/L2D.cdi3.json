@@ -1,0 +1,222 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamBogleXB",
+      "GroupId": "",
+      "Name": "身體的旋轉 X"
+    },
+    {
+      "Id": "ParamBogleYB",
+      "GroupId": "",
+      "Name": "身體 Y 呼吸"
+    },
+    {
+      "Id": "ParamBogleZB",
+      "GroupId": "",
+      "Name": "身體的旋轉 Z"
+    },
+    {
+      "Id": "ParamCefa2B",
+      "GroupId": "",
+      "Name": "CEFA2"
+    },
+    {
+      "Id": "ParamCefa2oB",
+      "GroupId": "",
+      "Name": "CEFA2 O"
+    },
+    {
+      "Id": "ParamChuanglian1",
+      "GroupId": "",
+      "Name": "窗帘1"
+    },
+    {
+      "Id": "ParamChuanglian2",
+      "GroupId": "",
+      "Name": "窗帘2"
+    },
+    {
+      "Id": "ParamChuanglian3",
+      "GroupId": "",
+      "Name": "光照"
+    },
+    {
+      "Id": "ParamChuanglian4",
+      "GroupId": "",
+      "Name": "光粒 移动"
+    },
+    {
+      "Id": "ParamChuanglian5",
+      "GroupId": "",
+      "Name": "光粒 闪耀"
+    },
+    {
+      "Id": "ParamDeng1",
+      "GroupId": "",
+      "Name": "近灯"
+    },
+    {
+      "Id": "ParamDeng2",
+      "GroupId": "",
+      "Name": "远灯"
+    },
+    {
+      "Id": "ParamDeng3",
+      "GroupId": "",
+      "Name": "远灯 蝴蝶"
+    },
+    {
+      "Id": "ParamDeng4",
+      "GroupId": "",
+      "Name": "信笺 漂浮X"
+    },
+    {
+      "Id": "ParamDeng5",
+      "GroupId": "",
+      "Name": "信笺 漂浮Y"
+    },
+    {
+      "Id": "ParamEyeLOpenB",
+      "GroupId": "",
+      "Name": "眼 開闔"
+    },
+    {
+      "Id": "ParamLiuhai1B",
+      "GroupId": "",
+      "Name": "LIUHAI1"
+    },
+    {
+      "Id": "ParamLiuhai1oB",
+      "GroupId": "",
+      "Name": "LIUHAI1 O"
+    },
+    {
+      "Id": "ParamLiuhai2B",
+      "GroupId": "",
+      "Name": "LIUHAI2"
+    },
+    {
+      "Id": "ParamLiuhai2oB",
+      "GroupId": "",
+      "Name": "LIUHAI2 O"
+    },
+    {
+      "Id": "ParamLiuhai3B",
+      "GroupId": "",
+      "Name": "LIUHAI3"
+    },
+    {
+      "Id": "ParamLiuhai3oB",
+      "GroupId": "",
+      "Name": "LIUHAI3 O"
+    },
+    {
+      "Id": "ParamMouthOpenYB",
+      "GroupId": "",
+      "Name": "嘴巴 開闔"
+    },
+    {
+      "Id": "ParamRArmB",
+      "GroupId": "",
+      "Name": "右上臂"
+    },
+    {
+      "Id": "ParamRDarmB",
+      "GroupId": "",
+      "Name": "右下臂"
+    },
+    {
+      "Id": "ParamRHand2B",
+      "GroupId": "",
+      "Name": "右手指"
+    },
+    {
+      "Id": "ParamRHandB",
+      "GroupId": "",
+      "Name": "右手"
+    },
+    {
+      "Id": "ParamSidaiB",
+      "GroupId": "",
+      "Name": "丝带1"
+    },
+    {
+      "Id": "ParamSidaiB2",
+      "GroupId": "",
+      "Name": "丝带2"
+    },
+    {
+      "Id": "ParamYibai2B",
+      "GroupId": "",
+      "Name": "衣摆1"
+    },
+    {
+      "Id": "ParamYibai2B2",
+      "GroupId": "",
+      "Name": "衣摆2"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "Part10",
+      "Name": "手臂"
+    },
+    {
+      "Id": "Part12",
+      "Name": "腿"
+    },
+    {
+      "Id": "Part13",
+      "Name": "背景"
+    },
+    {
+      "Id": "Part2",
+      "Name": "人物"
+    },
+    {
+      "Id": "Part3",
+      "Name": "手"
+    },
+    {
+      "Id": "Part4",
+      "Name": "眼睛"
+    },
+    {
+      "Id": "Part5",
+      "Name": "头发"
+    },
+    {
+      "Id": "Part6",
+      "Name": "披肩"
+    },
+    {
+      "Id": "Part7",
+      "Name": "剑"
+    },
+    {
+      "Id": "Part8",
+      "Name": "头"
+    },
+    {
+      "Id": "Part9",
+      "Name": "衣服"
+    }
+  ]
+}

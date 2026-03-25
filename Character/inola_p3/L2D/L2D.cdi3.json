@@ -1,0 +1,384 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamArmL",
+      "GroupId": "",
+      "Name": "左上臂"
+    },
+    {
+      "Id": "ParamArmL1",
+      "GroupId": "",
+      "Name": "左前臂"
+    },
+    {
+      "Id": "ParamArmR",
+      "GroupId": "",
+      "Name": "右上臂"
+    },
+    {
+      "Id": "ParamArmR1",
+      "GroupId": "",
+      "Name": "右前臂"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleX2",
+      "GroupId": "",
+      "Name": "背景　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "身体旋转　Y"
+    },
+    {
+      "Id": "ParamBodyAngleY2",
+      "GroupId": "",
+      "Name": "背景　Y"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "GroupId": "",
+      "Name": "右眉　角度"
+    },
+    {
+      "Id": "ParamCloth1",
+      "GroupId": "",
+      "Name": "Cloth1"
+    },
+    {
+      "Id": "ParamCloth2",
+      "GroupId": "",
+      "Name": "Cloth2"
+    },
+    {
+      "Id": "ParamClothes",
+      "GroupId": "",
+      "Name": "服摇Z"
+    },
+    {
+      "Id": "ParamClothesY",
+      "GroupId": "",
+      "Name": "服摇Z2"
+    },
+    {
+      "Id": "ParamEar1",
+      "GroupId": "",
+      "Name": "Ear1"
+    },
+    {
+      "Id": "ParamEar2",
+      "GroupId": "",
+      "Name": "Ear2"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼球 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼球 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼"
+    },
+    {
+      "Id": "ParamFingerL",
+      "GroupId": "",
+      "Name": "左手指"
+    },
+    {
+      "Id": "ParamFingerR",
+      "GroupId": "",
+      "Name": "右手指"
+    },
+    {
+      "Id": "ParamFootL",
+      "GroupId": "",
+      "Name": "左脚掌旋转"
+    },
+    {
+      "Id": "ParamGuashi",
+      "GroupId": "",
+      "Name": "Guashi"
+    },
+    {
+      "Id": "ParamHaiFrontY",
+      "GroupId": "",
+      "Name": "前发Y"
+    },
+    {
+      "Id": "ParamHairBack",
+      "GroupId": "",
+      "Name": "后发1"
+    },
+    {
+      "Id": "ParamHairBackY",
+      "GroupId": "",
+      "Name": "后发Y"
+    },
+    {
+      "Id": "ParamHairFront",
+      "GroupId": "",
+      "Name": "前发1"
+    },
+    {
+      "Id": "ParamHairFront2",
+      "GroupId": "",
+      "Name": "前发2"
+    },
+    {
+      "Id": "ParamHairFront2Y",
+      "GroupId": "",
+      "Name": "前发2Y"
+    },
+    {
+      "Id": "ParamHairFrontY",
+      "GroupId": "",
+      "Name": "侧发Y"
+    },
+    {
+      "Id": "ParamHairSide",
+      "GroupId": "",
+      "Name": "侧发1"
+    },
+    {
+      "Id": "ParamHairSide2",
+      "GroupId": "",
+      "Name": "侧发2"
+    },
+    {
+      "Id": "ParamHairSide2y",
+      "GroupId": "",
+      "Name": "侧发2Y"
+    },
+    {
+      "Id": "ParamHandL",
+      "GroupId": "",
+      "Name": "左手腕"
+    },
+    {
+      "Id": "ParamHandR",
+      "GroupId": "",
+      "Name": "右手腕"
+    },
+    {
+      "Id": "ParamLeaves1",
+      "GroupId": "",
+      "Name": "Leaves1"
+    },
+    {
+      "Id": "ParamLeaves2",
+      "GroupId": "",
+      "Name": "Leaves2"
+    },
+    {
+      "Id": "ParamLeaves3",
+      "GroupId": "",
+      "Name": "Leaves3"
+    },
+    {
+      "Id": "ParamLegL",
+      "GroupId": "",
+      "Name": "左大腿"
+    },
+    {
+      "Id": "ParamLegL1",
+      "GroupId": "",
+      "Name": "左小腿"
+    },
+    {
+      "Id": "ParamLegR",
+      "GroupId": "",
+      "Name": "右大腿"
+    },
+    {
+      "Id": "ParamLight",
+      "GroupId": "",
+      "Name": "Light"
+    },
+    {
+      "Id": "ParamLjian",
+      "GroupId": "",
+      "Name": "左肩"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "嘴部　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴 开闭"
+    },
+    {
+      "Id": "ParamOpaishakeX",
+      "GroupId": "",
+      "Name": "乳摇X"
+    },
+    {
+      "Id": "ParamOpaishakeX2",
+      "GroupId": "",
+      "Name": "乳摇X2"
+    },
+    {
+      "Id": "ParamOpaishakeY",
+      "GroupId": "",
+      "Name": "乳摇Y"
+    },
+    {
+      "Id": "ParamOpaishakeY2",
+      "GroupId": "",
+      "Name": "乳摇Y2"
+    },
+    {
+      "Id": "ParamParamBrowLY",
+      "GroupId": "",
+      "Name": "左眉上下"
+    },
+    {
+      "Id": "ParamParamBrowRY",
+      "GroupId": "",
+      "Name": "右眉上下"
+    },
+    {
+      "Id": "ParamRjian",
+      "GroupId": "",
+      "Name": "右肩"
+    },
+    {
+      "Id": "ParamShiba1_1",
+      "GroupId": "",
+      "Name": "尾巴1_1"
+    },
+    {
+      "Id": "ParamShiba1_2",
+      "GroupId": "",
+      "Name": "尾巴1_2"
+    },
+    {
+      "Id": "ParamShiba1_3",
+      "GroupId": "",
+      "Name": "尾巴1_3"
+    },
+    {
+      "Id": "ParamShiba2_1",
+      "GroupId": "",
+      "Name": "尾巴2_1"
+    },
+    {
+      "Id": "ParamShiba2_2",
+      "GroupId": "",
+      "Name": "尾巴2_2"
+    },
+    {
+      "Id": "ParamShiba2_3",
+      "GroupId": "",
+      "Name": "尾巴2_3"
+    },
+    {
+      "Id": "ParamShiba2_4",
+      "GroupId": "",
+      "Name": "尾巴2_4"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "Backplant",
+      "Name": "plant"
+    },
+    {
+      "Id": "Part",
+      "Name": "本体"
+    },
+    {
+      "Id": "Part10",
+      "Name": "后发"
+    },
+    {
+      "Id": "Part11",
+      "Name": "上身"
+    },
+    {
+      "Id": "Part12",
+      "Name": "背景"
+    },
+    {
+      "Id": "Part13",
+      "Name": "右腿"
+    },
+    {
+      "Id": "Part2",
+      "Name": "椅子"
+    },
+    {
+      "Id": "Part3",
+      "Name": "左腿"
+    },
+    {
+      "Id": "Part4",
+      "Name": "尾巴"
+    },
+    {
+      "Id": "Part5",
+      "Name": "左臂"
+    },
+    {
+      "Id": "Part6",
+      "Name": "头"
+    },
+    {
+      "Id": "Part7",
+      "Name": "刘海"
+    },
+    {
+      "Id": "Part8",
+      "Name": "五官"
+    },
+    {
+      "Id": "Part9",
+      "Name": "右臂"
+    }
+  ]
+}

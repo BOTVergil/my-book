@@ -1,0 +1,355 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamArmL",
+      "GroupId": "",
+      "Name": "左上臂"
+    },
+    {
+      "Id": "ParamArmL1",
+      "GroupId": "",
+      "Name": "左前臂"
+    },
+    {
+      "Id": "ParamArmR",
+      "GroupId": "",
+      "Name": "右上臂"
+    },
+    {
+      "Id": "ParamArmR1",
+      "GroupId": "",
+      "Name": "右前臂"
+    },
+    {
+      "Id": "ParamBJX",
+      "GroupId": "",
+      "Name": "圈背景X"
+    },
+    {
+      "Id": "ParamBJY",
+      "GroupId": "",
+      "Name": "圈背景Y"
+    },
+    {
+      "Id": "ParamBlack0",
+      "GroupId": "",
+      "Name": "黑边 开合"
+    },
+    {
+      "Id": "ParamBlack1",
+      "GroupId": "",
+      "Name": "黑幕"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "GroupId": "",
+      "Name": "右眉　角度"
+    },
+    {
+      "Id": "ParamClothes",
+      "GroupId": "",
+      "Name": "服摇Z"
+    },
+    {
+      "Id": "ParamClothesY",
+      "GroupId": "",
+      "Name": "服摇Z2"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼球 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼球 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼"
+    },
+    {
+      "Id": "ParamFingerR",
+      "GroupId": "",
+      "Name": "右手指"
+    },
+    {
+      "Id": "ParamHaiFrontY",
+      "GroupId": "",
+      "Name": "前发Y"
+    },
+    {
+      "Id": "ParamHairBack",
+      "GroupId": "",
+      "Name": "后发1"
+    },
+    {
+      "Id": "ParamHairBackY",
+      "GroupId": "",
+      "Name": "后发Y"
+    },
+    {
+      "Id": "ParamHairFront",
+      "GroupId": "",
+      "Name": "前发1"
+    },
+    {
+      "Id": "ParamHairFront2",
+      "GroupId": "",
+      "Name": "前发2"
+    },
+    {
+      "Id": "ParamHairFront2Y",
+      "GroupId": "",
+      "Name": "前发2Y"
+    },
+    {
+      "Id": "ParamHairFront3",
+      "GroupId": "",
+      "Name": "前发3"
+    },
+    {
+      "Id": "ParamHairFront3Y",
+      "GroupId": "",
+      "Name": "前发3Y"
+    },
+    {
+      "Id": "ParamHairFrontY",
+      "GroupId": "",
+      "Name": "侧发Y"
+    },
+    {
+      "Id": "ParamHairSide",
+      "GroupId": "",
+      "Name": "侧发1"
+    },
+    {
+      "Id": "ParamHairSide2",
+      "GroupId": "",
+      "Name": "侧发2"
+    },
+    {
+      "Id": "ParamHairSide2y",
+      "GroupId": "",
+      "Name": "侧发2Y"
+    },
+    {
+      "Id": "ParamHandab",
+      "GroupId": "",
+      "Name": "左手 切换"
+    },
+    {
+      "Id": "ParamHandR",
+      "GroupId": "",
+      "Name": "右手腕"
+    },
+    {
+      "Id": "ParamHBO",
+      "GroupId": "",
+      "Name": "角色 缩放"
+    },
+    {
+      "Id": "ParamHBO2",
+      "GroupId": "",
+      "Name": "角色 角度"
+    },
+    {
+      "Id": "ParamHBX",
+      "GroupId": "",
+      "Name": "圈 X"
+    },
+    {
+      "Id": "ParamHBY2",
+      "GroupId": "",
+      "Name": "圈 Y"
+    },
+    {
+      "Id": "ParamHBZ2",
+      "GroupId": "",
+      "Name": "圈 Z"
+    },
+    {
+      "Id": "ParamHipX",
+      "GroupId": "",
+      "Name": "HIP_X"
+    },
+    {
+      "Id": "ParamHipY",
+      "GroupId": "",
+      "Name": "HIP_Y"
+    },
+    {
+      "Id": "ParamJian",
+      "GroupId": "",
+      "Name": "左手 剑"
+    },
+    {
+      "Id": "ParamJian11",
+      "GroupId": "",
+      "Name": "大剑 显隐"
+    },
+    {
+      "Id": "ParamJian12",
+      "GroupId": "",
+      "Name": "大剑 轨迹"
+    },
+    {
+      "Id": "ParamJingtou",
+      "GroupId": "",
+      "Name": "衣服切镜"
+    },
+    {
+      "Id": "ParamLE1",
+      "GroupId": "",
+      "Name": "左耳朵1"
+    },
+    {
+      "Id": "ParamLE2",
+      "GroupId": "",
+      "Name": "左耳朵2"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "嘴部　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴 开闭"
+    },
+    {
+      "Id": "ParamOpaishakeX",
+      "GroupId": "",
+      "Name": "乳摇X"
+    },
+    {
+      "Id": "ParamOpaishakeX2",
+      "GroupId": "",
+      "Name": "乳摇X2"
+    },
+    {
+      "Id": "ParamOpaishakeY",
+      "GroupId": "",
+      "Name": "乳摇Y"
+    },
+    {
+      "Id": "ParamOpaishakeY2",
+      "GroupId": "",
+      "Name": "乳摇Y2"
+    },
+    {
+      "Id": "ParamPiaofu",
+      "GroupId": "",
+      "Name": "剑 漂浮"
+    },
+    {
+      "Id": "ParamRE1",
+      "GroupId": "",
+      "Name": "右耳朵1"
+    },
+    {
+      "Id": "ParamRE2",
+      "GroupId": "",
+      "Name": "右耳朵2"
+    },
+    {
+      "Id": "ParamSkirt",
+      "GroupId": "",
+      "Name": "裙子摇"
+    },
+    {
+      "Id": "ParamSkirtY",
+      "GroupId": "",
+      "Name": "裙子摇Y"
+    },
+    {
+      "Id": "ParamTuozhuai",
+      "GroupId": "",
+      "Name": "拖拽"
+    },
+    {
+      "Id": "ParamX",
+      "GroupId": "",
+      "Name": "角色 X"
+    },
+    {
+      "Id": "ParamY",
+      "GroupId": "",
+      "Name": "角色 Y"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "BlackM",
+      "Name": "特效"
+    },
+    {
+      "Id": "Part2",
+      "Name": "衣服"
+    },
+    {
+      "Id": "Part3",
+      "Name": "前发"
+    },
+    {
+      "Id": "Part4",
+      "Name": "脸部"
+    },
+    {
+      "Id": "Part5",
+      "Name": "眼眉"
+    },
+    {
+      "Id": "Part6",
+      "Name": "身体"
+    },
+    {
+      "Id": "Part7",
+      "Name": "手臂"
+    },
+    {
+      "Id": "Part8",
+      "Name": "后发"
+    }
+  ]
+}

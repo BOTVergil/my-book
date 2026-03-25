@@ -1,0 +1,757 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamArmL",
+      "GroupId": "",
+      "Name": "左上臂"
+    },
+    {
+      "Id": "ParamArmL1",
+      "GroupId": "",
+      "Name": "左前臂"
+    },
+    {
+      "Id": "ParamArmL1Y",
+      "GroupId": "",
+      "Name": "左前臂Y"
+    },
+    {
+      "Id": "ParamArmLY",
+      "GroupId": "",
+      "Name": "左上臂Y"
+    },
+    {
+      "Id": "ParamArmR",
+      "GroupId": "",
+      "Name": "右上臂"
+    },
+    {
+      "Id": "ParamArmR1",
+      "GroupId": "",
+      "Name": "右前臂"
+    },
+    {
+      "Id": "ParamArmR1Y",
+      "GroupId": "",
+      "Name": "右前臂Y"
+    },
+    {
+      "Id": "ParamArmRY",
+      "GroupId": "",
+      "Name": "右上臂Y"
+    },
+    {
+      "Id": "ParamAX",
+      "GroupId": "",
+      "Name": "兔子X"
+    },
+    {
+      "Id": "ParamAY",
+      "GroupId": "",
+      "Name": "兔子Y"
+    },
+    {
+      "Id": "ParamAZ",
+      "GroupId": "",
+      "Name": "兔子Z"
+    },
+    {
+      "Id": "ParamBlack0",
+      "GroupId": "",
+      "Name": "黑幕后"
+    },
+    {
+      "Id": "ParamBLACK1",
+      "GroupId": "",
+      "Name": "黑幕前"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "身体旋转　Y"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "GroupId": "",
+      "Name": "左眉　変形"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "GroupId": "",
+      "Name": "右眉　角度"
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "GroupId": "",
+      "Name": "右眉　変形"
+    },
+    {
+      "Id": "ParamCheek",
+      "GroupId": "",
+      "Name": "害羞"
+    },
+    {
+      "Id": "ParamClothes",
+      "GroupId": "",
+      "Name": "服摇"
+    },
+    {
+      "Id": "ParamClothes2",
+      "GroupId": "",
+      "Name": "服摇2"
+    },
+    {
+      "Id": "ParamClothes2Y",
+      "GroupId": "",
+      "Name": "服摇2Y"
+    },
+    {
+      "Id": "ParamClothesY",
+      "GroupId": "",
+      "Name": "服摇Y"
+    },
+    {
+      "Id": "ParamClothT",
+      "GroupId": "",
+      "Name": "衣服互动"
+    },
+    {
+      "Id": "ParamEB",
+      "GroupId": "",
+      "Name": "兔子呼吸"
+    },
+    {
+      "Id": "ParamEOpen",
+      "GroupId": "",
+      "Name": "兔子眼开闭"
+    },
+    {
+      "Id": "ParamER",
+      "GroupId": "",
+      "Name": "兔子耳朵"
+    },
+    {
+      "Id": "ParamEX",
+      "GroupId": "",
+      "Name": "兔子屁屁 X"
+    },
+    {
+      "Id": "ParamEY",
+      "GroupId": "",
+      "Name": "兔子屁屁 Y"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼球 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼球 Y"
+    },
+    {
+      "Id": "ParamEyeForm",
+      "GroupId": "",
+      "Name": "眼睛变形"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼"
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "GroupId": "",
+      "Name": "左眼　微笑"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼"
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "GroupId": "",
+      "Name": "右眼　微笑"
+    },
+    {
+      "Id": "ParamFingerL",
+      "GroupId": "",
+      "Name": "左手指1"
+    },
+    {
+      "Id": "ParamFingerL2",
+      "GroupId": "",
+      "Name": "左手指2"
+    },
+    {
+      "Id": "ParamFingerL3",
+      "GroupId": "",
+      "Name": "左手指3"
+    },
+    {
+      "Id": "ParamFingerL4",
+      "GroupId": "",
+      "Name": "左手指4"
+    },
+    {
+      "Id": "ParamFingerL5",
+      "GroupId": "",
+      "Name": "左手指5"
+    },
+    {
+      "Id": "ParamFingerR",
+      "GroupId": "",
+      "Name": "右手指"
+    },
+    {
+      "Id": "ParamFlower",
+      "GroupId": "",
+      "Name": "花瓣"
+    },
+    {
+      "Id": "ParamFlower2",
+      "GroupId": "",
+      "Name": "花瓣2"
+    },
+    {
+      "Id": "ParamFootL",
+      "GroupId": "",
+      "Name": "左脚掌旋转"
+    },
+    {
+      "Id": "ParamFootR",
+      "GroupId": "",
+      "Name": "右脚掌旋转"
+    },
+    {
+      "Id": "ParamHaiFrontY",
+      "GroupId": "",
+      "Name": "前发Y"
+    },
+    {
+      "Id": "ParamHairFront",
+      "GroupId": "",
+      "Name": "前发摇"
+    },
+    {
+      "Id": "ParamHairFront2",
+      "GroupId": "",
+      "Name": "前发2"
+    },
+    {
+      "Id": "ParamHairFront2Y",
+      "GroupId": "",
+      "Name": "前发2Y"
+    },
+    {
+      "Id": "ParamHairFront3",
+      "GroupId": "",
+      "Name": "前发3"
+    },
+    {
+      "Id": "ParamHairFront4",
+      "GroupId": "",
+      "Name": "前发2B"
+    },
+    {
+      "Id": "ParamHand1A",
+      "GroupId": "",
+      "Name": "手型下压"
+    },
+    {
+      "Id": "ParamHandL",
+      "GroupId": "",
+      "Name": "左手腕"
+    },
+    {
+      "Id": "ParamHandLeg",
+      "GroupId": "",
+      "Name": "抓起褶皱"
+    },
+    {
+      "Id": "ParamHandLT",
+      "GroupId": "",
+      "Name": "左手切换"
+    },
+    {
+      "Id": "ParamHandPass",
+      "GroupId": "",
+      "Name": "衣服让位"
+    },
+    {
+      "Id": "ParamHandR",
+      "GroupId": "",
+      "Name": "右手腕"
+    },
+    {
+      "Id": "ParamHeart",
+      "GroupId": "",
+      "Name": "爱心飞出"
+    },
+    {
+      "Id": "ParamHide",
+      "GroupId": "",
+      "Name": "大腿遮挡"
+    },
+    {
+      "Id": "ParamHideB",
+      "GroupId": "",
+      "Name": "拉起切换"
+    },
+    {
+      "Id": "ParamHideC",
+      "GroupId": "",
+      "Name": "拉起B"
+    },
+    {
+      "Id": "ParamHipX",
+      "GroupId": "",
+      "Name": "屁股X"
+    },
+    {
+      "Id": "ParamHipX2",
+      "GroupId": "",
+      "Name": "HIP_X"
+    },
+    {
+      "Id": "ParamHipY",
+      "GroupId": "",
+      "Name": "屁股Y"
+    },
+    {
+      "Id": "ParamHit",
+      "GroupId": "",
+      "Name": "裤袜交互"
+    },
+    {
+      "Id": "ParamHua1",
+      "GroupId": "",
+      "Name": "花瓣1显示"
+    },
+    {
+      "Id": "ParamHua2",
+      "GroupId": "",
+      "Name": "花瓣2显示"
+    },
+    {
+      "Id": "ParamHua3",
+      "GroupId": "",
+      "Name": "扑克牌透视"
+    },
+    {
+      "Id": "ParamHua4",
+      "GroupId": "",
+      "Name": "扑克牌旋转"
+    },
+    {
+      "Id": "ParamHua5",
+      "GroupId": "",
+      "Name": "扑克牌缩放"
+    },
+    {
+      "Id": "ParamHua6",
+      "GroupId": "",
+      "Name": "扑克牌图层"
+    },
+    {
+      "Id": "ParamHua7",
+      "GroupId": "",
+      "Name": "扑克牌切换"
+    },
+    {
+      "Id": "ParamJTEyeOpen",
+      "GroupId": "",
+      "Name": "镜头眨眼"
+    },
+    {
+      "Id": "ParamLegL",
+      "GroupId": "",
+      "Name": "左大腿"
+    },
+    {
+      "Id": "ParamLegL1",
+      "GroupId": "",
+      "Name": "左小腿"
+    },
+    {
+      "Id": "ParamLegL1Y",
+      "GroupId": "",
+      "Name": "左小腿Y"
+    },
+    {
+      "Id": "ParamLegLY",
+      "GroupId": "",
+      "Name": "左大腿Y"
+    },
+    {
+      "Id": "ParamLegR",
+      "GroupId": "",
+      "Name": "右大腿"
+    },
+    {
+      "Id": "ParamLegR1",
+      "GroupId": "",
+      "Name": "右小腿"
+    },
+    {
+      "Id": "ParamLegR1Y",
+      "GroupId": "",
+      "Name": "右小腿Y"
+    },
+    {
+      "Id": "ParamLegRY",
+      "GroupId": "",
+      "Name": "右大腿Y"
+    },
+    {
+      "Id": "ParamLight",
+      "GroupId": "",
+      "Name": "发光"
+    },
+    {
+      "Id": "ParamLlOVE",
+      "GroupId": "",
+      "Name": "小爱心"
+    },
+    {
+      "Id": "ParamLove",
+      "GroupId": "",
+      "Name": "冒爱心"
+    },
+    {
+      "Id": "ParamMouth1",
+      "GroupId": "",
+      "Name": "咬嘴唇"
+    },
+    {
+      "Id": "ParamMouthForm2",
+      "GroupId": "",
+      "Name": "嘴　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴 开闭"
+    },
+    {
+      "Id": "ParamMouthOpenY2",
+      "GroupId": "",
+      "Name": "舌头"
+    },
+    {
+      "Id": "ParamMouthOpenY3",
+      "GroupId": "",
+      "Name": "舌头移动"
+    },
+    {
+      "Id": "ParamMouthWide",
+      "GroupId": "",
+      "Name": "嘴　宽度"
+    },
+    {
+      "Id": "ParamOP",
+      "GroupId": "",
+      "Name": "入场光晕"
+    },
+    {
+      "Id": "ParamOpaishakeX",
+      "GroupId": "",
+      "Name": "乳摇X"
+    },
+    {
+      "Id": "ParamOpaishakeX2",
+      "GroupId": "",
+      "Name": "乳摇X2"
+    },
+    {
+      "Id": "ParamOpaishakeY",
+      "GroupId": "",
+      "Name": "乳摇Y"
+    },
+    {
+      "Id": "ParamOpaishakeY2",
+      "GroupId": "",
+      "Name": "乳摇Y2"
+    },
+    {
+      "Id": "ParamP",
+      "GroupId": "",
+      "Name": "飘动扑克"
+    },
+    {
+      "Id": "ParamP2",
+      "GroupId": "",
+      "Name": "抽屉物理"
+    },
+    {
+      "Id": "ParamParamBrowLY",
+      "GroupId": "",
+      "Name": "左眉上下"
+    },
+    {
+      "Id": "ParamParamBrowRY",
+      "GroupId": "",
+      "Name": "右眉上下"
+    },
+    {
+      "Id": "ParamQ",
+      "GroupId": "",
+      "Name": "问号"
+    },
+    {
+      "Id": "ParamRed",
+      "GroupId": "",
+      "Name": "掌印"
+    },
+    {
+      "Id": "ParamShoes",
+      "GroupId": "",
+      "Name": "鞋子交互"
+    },
+    {
+      "Id": "ParamShoulderL",
+      "GroupId": "",
+      "Name": "左肩"
+    },
+    {
+      "Id": "ParamShoulderR",
+      "GroupId": "",
+      "Name": "右肩"
+    },
+    {
+      "Id": "ParamTear",
+      "GroupId": "",
+      "Name": "眼泪"
+    },
+    {
+      "Id": "ParamTouch",
+      "GroupId": "",
+      "Name": "抽屉拉开"
+    },
+    {
+      "Id": "ParamWX",
+      "GroupId": "",
+      "Name": "全局X"
+    },
+    {
+      "Id": "ParamWY",
+      "GroupId": "",
+      "Name": "全局Y"
+    },
+    {
+      "Id": "ParamWZoom",
+      "GroupId": "",
+      "Name": "全局缩放"
+    },
+    {
+      "Id": "Param_Angle_Rotation19",
+      "GroupId": "",
+      "Name": "[0]呆毛3"
+    },
+    {
+      "Id": "Param_Angle_Rotation20",
+      "GroupId": "",
+      "Name": "[1]呆毛3"
+    },
+    {
+      "Id": "Param_Angle_Rotation21",
+      "GroupId": "",
+      "Name": "[2]呆毛3"
+    },
+    {
+      "Id": "PARAM_O_O",
+      "GroupId": "",
+      "Name": "OF Opa"
+    },
+    {
+      "Id": "PARAM_O_T",
+      "GroupId": "",
+      "Name": "OF Turn"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "ArtMesh79_Skinning",
+      "Name": "呆毛(蒙皮)"
+    },
+    {
+      "Id": "L",
+      "Name": "L"
+    },
+    {
+      "Id": "Part",
+      "Name": "屠苏酒套装"
+    },
+    {
+      "Id": "Part10",
+      "Name": "左眼"
+    },
+    {
+      "Id": "Part11",
+      "Name": "右眼"
+    },
+    {
+      "Id": "Part12",
+      "Name": "发投影"
+    },
+    {
+      "Id": "Part13",
+      "Name": "身体"
+    },
+    {
+      "Id": "Part14",
+      "Name": "链子"
+    },
+    {
+      "Id": "Part16",
+      "Name": "左手组"
+    },
+    {
+      "Id": "Part17",
+      "Name": "右腿"
+    },
+    {
+      "Id": "Part19",
+      "Name": "身子"
+    },
+    {
+      "Id": "Part2",
+      "Name": "麻将牌"
+    },
+    {
+      "Id": "Part20",
+      "Name": "左腿"
+    },
+    {
+      "Id": "Part21",
+      "Name": "辫子"
+    },
+    {
+      "Id": "Part22",
+      "Name": "部件26"
+    },
+    {
+      "Id": "Part23",
+      "Name": "部件27"
+    },
+    {
+      "Id": "Part25",
+      "Name": "部件27"
+    },
+    {
+      "Id": "Part26",
+      "Name": "部件28"
+    },
+    {
+      "Id": "Part27",
+      "Name": "部件29"
+    },
+    {
+      "Id": "Part28",
+      "Name": "部件30"
+    },
+    {
+      "Id": "Part29",
+      "Name": "部件31"
+    },
+    {
+      "Id": "Part3",
+      "Name": "人"
+    },
+    {
+      "Id": "Part30",
+      "Name": "兔子"
+    },
+    {
+      "Id": "Part31",
+      "Name": "部件33"
+    },
+    {
+      "Id": "Part32",
+      "Name": "背景"
+    },
+    {
+      "Id": "Part33",
+      "Name": "食物"
+    },
+    {
+      "Id": "Part34",
+      "Name": "春节芙洛伦立绘拆.psd"
+    },
+    {
+      "Id": "Part36",
+      "Name": "部件48"
+    },
+    {
+      "Id": "Part37",
+      "Name": "图层组1"
+    },
+    {
+      "Id": "Part4",
+      "Name": "部件36"
+    },
+    {
+      "Id": "Part6",
+      "Name": "右手补"
+    },
+    {
+      "Id": "Part60",
+      "Name": "爱心"
+    },
+    {
+      "Id": "Part7",
+      "Name": "头发"
+    },
+    {
+      "Id": "Part8",
+      "Name": "脸"
+    },
+    {
+      "Id": "Part9",
+      "Name": "嘴巴"
+    },
+    {
+      "Id": "R",
+      "Name": "R"
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamBack2",
+      "GroupId": "",
+      "Name": "Back2"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBow1",
+      "GroupId": "",
+      "Name": "Bow1"
+    },
+    {
+      "Id": "ParamBow2",
+      "GroupId": "",
+      "Name": "Bow2"
+    },
+    {
+      "Id": "ParamBrowLY",
+      "GroupId": "",
+      "Name": "左眉   上下"
+    },
+    {
+      "Id": "ParamBrowRY",
+      "GroupId": "",
+      "Name": "右眉　上下"
+    },
+    {
+      "Id": "ParamCard1",
+      "GroupId": "",
+      "Name": "卡片下落1"
+    },
+    {
+      "Id": "ParamCard2",
+      "GroupId": "",
+      "Name": "卡片下落2"
+    },
+    {
+      "Id": "ParamCard3",
+      "GroupId": "",
+      "Name": "卡片下落3"
+    },
+    {
+      "Id": "ParamCard4",
+      "GroupId": "",
+      "Name": "卡片下落4"
+    },
+    {
+      "Id": "ParamCard5",
+      "GroupId": "",
+      "Name": "卡片下落5"
+    },
+    {
+      "Id": "ParamDress1",
+      "GroupId": "",
+      "Name": "Dress1"
+    },
+    {
+      "Id": "ParamDress2",
+      "GroupId": "",
+      "Name": "Dress2"
+    },
+    {
+      "Id": "ParamEaring",
+      "GroupId": "",
+      "Name": "Earing"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼球 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼球 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼"
+    },
+    {
+      "Id": "ParamFlower1",
+      "GroupId": "",
+      "Name": "Flower1"
+    },
+    {
+      "Id": "ParamFlower2",
+      "GroupId": "",
+      "Name": "Flower2"
+    },
+    {
+      "Id": "ParamFore2",
+      "GroupId": "",
+      "Name": "Fore2"
+    },
+    {
+      "Id": "ParamGrass1",
+      "GroupId": "",
+      "Name": "Grass1"
+    },
+    {
+      "Id": "ParamGrass2",
+      "GroupId": "",
+      "Name": "Grass2"
+    },
+    {
+      "Id": "ParamHairBack",
+      "GroupId": "",
+      "Name": "摇动　后发"
+    },
+    {
+      "Id": "ParamHairFront",
+      "GroupId": "",
+      "Name": "摇动　前发"
+    },
+    {
+      "Id": "ParamHairSide",
+      "GroupId": "",
+      "Name": "摇动　侧发"
+    },
+    {
+      "Id": "ParamKazhuan",
+      "GroupId": "",
+      "Name": "卡片转"
+    },
+    {
+      "Id": "ParamLfoot",
+      "GroupId": "",
+      "Name": "Lfoot"
+    },
+    {
+      "Id": "ParamLforeleg",
+      "GroupId": "",
+      "Name": "Lforeleg"
+    },
+    {
+      "Id": "ParamLight1",
+      "GroupId": "",
+      "Name": "Light1"
+    },
+    {
+      "Id": "ParamLight2",
+      "GroupId": "",
+      "Name": "Light2"
+    },
+    {
+      "Id": "ParamLighty",
+      "GroupId": "",
+      "Name": "Lighty"
+    },
+    {
+      "Id": "ParamLighty2",
+      "GroupId": "",
+      "Name": "Lighty2"
+    },
+    {
+      "Id": "ParamLizi0",
+      "GroupId": "",
+      "Name": "Lizi0"
+    },
+    {
+      "Id": "ParamLizi1",
+      "GroupId": "",
+      "Name": "Lizi1"
+    },
+    {
+      "Id": "ParamLizi2",
+      "GroupId": "",
+      "Name": "Lizi2"
+    },
+    {
+      "Id": "ParamLleg",
+      "GroupId": "",
+      "Name": "Lleg"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴巴　自动开闭"
+    },
+    {
+      "Id": "ParamMouthOpenYB",
+      "GroupId": "",
+      "Name": "嘴巴 开合"
+    },
+    {
+      "Id": "ParamOppai1",
+      "GroupId": "",
+      "Name": "Oppai1"
+    },
+    {
+      "Id": "ParamOppai2",
+      "GroupId": "",
+      "Name": "Oppai2"
+    },
+    {
+      "Id": "ParamQunziT",
+      "GroupId": "",
+      "Name": "裙子拖拽"
+    },
+    {
+      "Id": "ParamRarm",
+      "GroupId": "",
+      "Name": "Rarm"
+    },
+    {
+      "Id": "ParamRfinger",
+      "GroupId": "",
+      "Name": "Rfinger"
+    },
+    {
+      "Id": "ParamRfoot",
+      "GroupId": "",
+      "Name": "Rfoot"
+    },
+    {
+      "Id": "ParamRforearm",
+      "GroupId": "",
+      "Name": "Rforearm"
+    },
+    {
+      "Id": "ParamRforeleg",
+      "GroupId": "",
+      "Name": "Rforeleg"
+    },
+    {
+      "Id": "ParamRhand",
+      "GroupId": "",
+      "Name": "Rhand"
+    },
+    {
+      "Id": "ParamRleg",
+      "GroupId": "",
+      "Name": "Rleg"
+    },
+    {
+      "Id": "ParamShining2",
+      "GroupId": "",
+      "Name": "Shining2"
+    },
+    {
+      "Id": "ParamShiningy",
+      "GroupId": "",
+      "Name": "Shiningy"
+    },
+    {
+      "Id": "ParamSide2",
+      "GroupId": "",
+      "Name": "Side2"
+    },
+    {
+      "Id": "ParamSide3",
+      "GroupId": "",
+      "Name": "Side3"
+    },
+    {
+      "Id": "ParamSide4",
+      "GroupId": "",
+      "Name": "Side4"
+    },
+    {
+      "Id": "ParamSiwaT",
+      "GroupId": "",
+      "Name": "丝袜拖拽"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "arm",
+      "Name": "arm"
+    },
+    {
+      "Id": "backg",
+      "Name": "backg"
+    },
+    {
+      "Id": "backhair",
+      "Name": "backhair"
+    },
+    {
+      "Id": "body",
+      "Name": "body"
+    },
+    {
+      "Id": "character",
+      "Name": "character"
+    },
+    {
+      "Id": "ditai",
+      "Name": "ditai"
+    },
+    {
+      "Id": "dress",
+      "Name": "dress"
+    },
+    {
+      "Id": "face",
+      "Name": "face"
+    },
+    {
+      "Id": "Larm",
+      "Name": "Larm"
+    },
+    {
+      "Id": "Leye",
+      "Name": "Leye"
+    },
+    {
+      "Id": "mouth",
+      "Name": "mouth"
+    },
+    {
+      "Id": "qianfa",
+      "Name": "qianfa"
+    },
+    {
+      "Id": "Reye",
+      "Name": "Reye"
+    },
+    {
+      "Id": "shiping",
+      "Name": "shiping"
+    },
+    {
+      "Id": "treeback",
+      "Name": "treeback"
+    },
+    {
+      "Id": "xiaoguo",
+      "Name": "xiaoguo"
+    }
+  ]
+}

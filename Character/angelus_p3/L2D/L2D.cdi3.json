@@ -1,0 +1,709 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "角度调整"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamBogleXB",
+      "GroupId": "",
+      "Name": "身體 X"
+    },
+    {
+      "Id": "ParamBogleXB2",
+      "GroupId": "",
+      "Name": "人物 X"
+    },
+    {
+      "Id": "ParamBogleYB",
+      "GroupId": "",
+      "Name": "身體 Y"
+    },
+    {
+      "Id": "ParamBogleYB2",
+      "GroupId": "",
+      "Name": "人物 Y"
+    },
+    {
+      "Id": "ParamBogleZB",
+      "GroupId": "",
+      "Name": "身體 Z"
+    },
+    {
+      "Id": "ParamBogleZB2",
+      "GroupId": "",
+      "Name": "人物 Z"
+    },
+    {
+      "Id": "ParamCefa1",
+      "GroupId": "",
+      "Name": "侧发1"
+    },
+    {
+      "Id": "ParamCefa1o",
+      "GroupId": "",
+      "Name": "侧发1 O"
+    },
+    {
+      "Id": "ParamChi1",
+      "GroupId": "",
+      "Name": "翅1"
+    },
+    {
+      "Id": "ParamChi10",
+      "GroupId": "",
+      "Name": "翅 Z2"
+    },
+    {
+      "Id": "ParamChi2",
+      "GroupId": "",
+      "Name": "翅2"
+    },
+    {
+      "Id": "ParamChi3",
+      "GroupId": "",
+      "Name": "翅3"
+    },
+    {
+      "Id": "ParamChi4",
+      "GroupId": "",
+      "Name": "翅4"
+    },
+    {
+      "Id": "ParamChi5",
+      "GroupId": "",
+      "Name": "翅5"
+    },
+    {
+      "Id": "ParamChi6",
+      "GroupId": "",
+      "Name": "翅1"
+    },
+    {
+      "Id": "ParamChi7",
+      "GroupId": "",
+      "Name": "翅2"
+    },
+    {
+      "Id": "ParamChi8",
+      "GroupId": "",
+      "Name": "翅3"
+    },
+    {
+      "Id": "ParamChi9",
+      "GroupId": "",
+      "Name": "翅 Z"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼球 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼球 Y"
+    },
+    {
+      "Id": "ParamEyeLOpenB",
+      "GroupId": "",
+      "Name": "眼 開闔"
+    },
+    {
+      "Id": "ParamFootL",
+      "GroupId": "",
+      "Name": "左脚"
+    },
+    {
+      "Id": "ParamFootL2",
+      "GroupId": "",
+      "Name": "左脚趾"
+    },
+    {
+      "Id": "ParamFootR",
+      "GroupId": "",
+      "Name": "右脚"
+    },
+    {
+      "Id": "ParamFootR2",
+      "GroupId": "",
+      "Name": "右脚趾"
+    },
+    {
+      "Id": "ParamGong",
+      "GroupId": "",
+      "Name": "弓开合"
+    },
+    {
+      "Id": "ParamGong1",
+      "GroupId": "",
+      "Name": "弓"
+    },
+    {
+      "Id": "ParamGongO",
+      "GroupId": "",
+      "Name": "弓 O"
+    },
+    {
+      "Id": "ParamGuangban1",
+      "GroupId": "",
+      "Name": "光斑1"
+    },
+    {
+      "Id": "ParamGuangban2",
+      "GroupId": "",
+      "Name": "光斑2"
+    },
+    {
+      "Id": "ParamHeibu",
+      "GroupId": "",
+      "Name": "黑布"
+    },
+    {
+      "Id": "ParamHeibuO",
+      "GroupId": "",
+      "Name": "黑布 O"
+    },
+    {
+      "Id": "ParamHipXB",
+      "GroupId": "",
+      "Name": "胯X"
+    },
+    {
+      "Id": "ParamHoufa",
+      "GroupId": "",
+      "Name": "后发"
+    },
+    {
+      "Id": "ParamHoufa1o",
+      "GroupId": "",
+      "Name": "后发1 O"
+    },
+    {
+      "Id": "ParamJixie1",
+      "GroupId": "",
+      "Name": "机械1"
+    },
+    {
+      "Id": "ParamJixie2",
+      "GroupId": "",
+      "Name": "机械2"
+    },
+    {
+      "Id": "ParamJixie3",
+      "GroupId": "",
+      "Name": "机械3"
+    },
+    {
+      "Id": "ParamJixie4",
+      "GroupId": "",
+      "Name": "机械4"
+    },
+    {
+      "Id": "ParamJixie5",
+      "GroupId": "",
+      "Name": "机械2 B"
+    },
+    {
+      "Id": "ParamJixie6",
+      "GroupId": "",
+      "Name": "机械1 B"
+    },
+    {
+      "Id": "ParamJixieO",
+      "GroupId": "",
+      "Name": "机械1 O"
+    },
+    {
+      "Id": "ParamJixieO2",
+      "GroupId": "",
+      "Name": "机械2 O"
+    },
+    {
+      "Id": "ParamJixieO3",
+      "GroupId": "",
+      "Name": "机械3 O"
+    },
+    {
+      "Id": "ParamJixieO4",
+      "GroupId": "",
+      "Name": "机械4 O"
+    },
+    {
+      "Id": "ParamJixieO5",
+      "GroupId": "",
+      "Name": "机械2B O"
+    },
+    {
+      "Id": "ParamJixieO6",
+      "GroupId": "",
+      "Name": "机械1B O"
+    },
+    {
+      "Id": "ParamLArmB",
+      "GroupId": "",
+      "Name": "左上臂"
+    },
+    {
+      "Id": "ParamLArmY",
+      "GroupId": "",
+      "Name": "左臂Y"
+    },
+    {
+      "Id": "ParamLDarmB",
+      "GroupId": "",
+      "Name": "左下臂"
+    },
+    {
+      "Id": "ParamLegL",
+      "GroupId": "",
+      "Name": "左腿"
+    },
+    {
+      "Id": "ParamLegL2",
+      "GroupId": "",
+      "Name": "左小腿"
+    },
+    {
+      "Id": "ParamLegLY",
+      "GroupId": "",
+      "Name": "左腿Y"
+    },
+    {
+      "Id": "ParamLegR",
+      "GroupId": "",
+      "Name": "右腿"
+    },
+    {
+      "Id": "ParamLegR2",
+      "GroupId": "",
+      "Name": "右小腿"
+    },
+    {
+      "Id": "ParamLegRY",
+      "GroupId": "",
+      "Name": "右腿Y"
+    },
+    {
+      "Id": "ParamLHand2B",
+      "GroupId": "",
+      "Name": "左手指"
+    },
+    {
+      "Id": "ParamLHand2B2",
+      "GroupId": "",
+      "Name": "左手指2"
+    },
+    {
+      "Id": "ParamLHandB",
+      "GroupId": "",
+      "Name": "左手"
+    },
+    {
+      "Id": "ParamLight",
+      "GroupId": "",
+      "Name": "光 显隐"
+    },
+    {
+      "Id": "ParamLight1",
+      "GroupId": "",
+      "Name": "光束"
+    },
+    {
+      "Id": "ParamLight2",
+      "GroupId": "",
+      "Name": "光束2"
+    },
+    {
+      "Id": "ParamLightOFF",
+      "GroupId": "",
+      "Name": "光束显隐"
+    },
+    {
+      "Id": "ParamLightOFF2",
+      "GroupId": "",
+      "Name": "光束2显隐"
+    },
+    {
+      "Id": "ParamLightZ",
+      "GroupId": "",
+      "Name": "光束转"
+    },
+    {
+      "Id": "ParamLightZ2",
+      "GroupId": "",
+      "Name": "光束2转"
+    },
+    {
+      "Id": "ParamLiuhai1",
+      "GroupId": "",
+      "Name": "刘海1"
+    },
+    {
+      "Id": "ParamLiuhai1o",
+      "GroupId": "",
+      "Name": "刘海1 O"
+    },
+    {
+      "Id": "ParamLiuhai1o2",
+      "GroupId": "",
+      "Name": "刘海2 O"
+    },
+    {
+      "Id": "ParamLiuhai1o3",
+      "GroupId": "",
+      "Name": "刘海3 O"
+    },
+    {
+      "Id": "ParamLiuhai2",
+      "GroupId": "",
+      "Name": "刘海2"
+    },
+    {
+      "Id": "ParamLiuhai3",
+      "GroupId": "",
+      "Name": "刘海3"
+    },
+    {
+      "Id": "Paramlizi1",
+      "GroupId": "",
+      "Name": "粒子1"
+    },
+    {
+      "Id": "Paramlizi2",
+      "GroupId": "",
+      "Name": "粒子2"
+    },
+    {
+      "Id": "Paramlizi3",
+      "GroupId": "",
+      "Name": "粒子3"
+    },
+    {
+      "Id": "ParamMahuabian1",
+      "GroupId": "",
+      "Name": "麻花辫1"
+    },
+    {
+      "Id": "ParamMahuabian2",
+      "GroupId": "",
+      "Name": "麻花辫2"
+    },
+    {
+      "Id": "ParamMahuabianO",
+      "GroupId": "",
+      "Name": "麻花辫1 O"
+    },
+    {
+      "Id": "ParamMahuabianO2",
+      "GroupId": "",
+      "Name": "麻花辫2 O"
+    },
+    {
+      "Id": "ParamMouthOpenYB",
+      "GroupId": "",
+      "Name": "嘴巴 開闔"
+    },
+    {
+      "Id": "ParamOppaiX",
+      "GroupId": "",
+      "Name": "胸X"
+    },
+    {
+      "Id": "ParamOppaiXO",
+      "GroupId": "",
+      "Name": "胸X O"
+    },
+    {
+      "Id": "ParamOppaiY",
+      "GroupId": "",
+      "Name": "胸Y"
+    },
+    {
+      "Id": "ParamOppaiYO",
+      "GroupId": "",
+      "Name": "胸Y O"
+    },
+    {
+      "Id": "ParamPensheqi",
+      "GroupId": "",
+      "Name": "喷射器"
+    },
+    {
+      "Id": "ParamPensheqiO",
+      "GroupId": "",
+      "Name": "喷射器 O"
+    },
+    {
+      "Id": "ParamRArmB",
+      "GroupId": "",
+      "Name": "右上臂"
+    },
+    {
+      "Id": "ParamRDarmB",
+      "GroupId": "",
+      "Name": "右下臂"
+    },
+    {
+      "Id": "ParamRHand2B",
+      "GroupId": "",
+      "Name": "右手指"
+    },
+    {
+      "Id": "ParamRHand2B2",
+      "GroupId": "",
+      "Name": "右手指2"
+    },
+    {
+      "Id": "ParamRHandB",
+      "GroupId": "",
+      "Name": "右手"
+    },
+    {
+      "Id": "ParamTenLight1",
+      "GroupId": "",
+      "Name": "十字光1"
+    },
+    {
+      "Id": "ParamTenLight1z",
+      "GroupId": "",
+      "Name": "十字光转"
+    },
+    {
+      "Id": "ParamTenLight1z2",
+      "GroupId": "",
+      "Name": "十字光2转"
+    },
+    {
+      "Id": "ParamTenLight1z3",
+      "GroupId": "",
+      "Name": "十字光3转"
+    },
+    {
+      "Id": "ParamTenLight1z4",
+      "GroupId": "",
+      "Name": "十字光4转"
+    },
+    {
+      "Id": "ParamTenLight2",
+      "GroupId": "",
+      "Name": "十字光2"
+    },
+    {
+      "Id": "ParamTenLight3",
+      "GroupId": "",
+      "Name": "十字光3"
+    },
+    {
+      "Id": "ParamTenLight4",
+      "GroupId": "",
+      "Name": "十字光4"
+    },
+    {
+      "Id": "ParamYibai",
+      "GroupId": "",
+      "Name": "衣摆"
+    },
+    {
+      "Id": "ParamYibaiO",
+      "GroupId": "",
+      "Name": "衣摆 O"
+    },
+    {
+      "Id": "ParamYun1",
+      "GroupId": "",
+      "Name": "云1"
+    },
+    {
+      "Id": "ParamYun10",
+      "GroupId": "",
+      "Name": "云4B"
+    },
+    {
+      "Id": "ParamYun11",
+      "GroupId": "",
+      "Name": "云5B"
+    },
+    {
+      "Id": "ParamYun12",
+      "GroupId": "",
+      "Name": "云6B"
+    },
+    {
+      "Id": "ParamYun2",
+      "GroupId": "",
+      "Name": "云2"
+    },
+    {
+      "Id": "ParamYun3",
+      "GroupId": "",
+      "Name": "云3"
+    },
+    {
+      "Id": "ParamYun4",
+      "GroupId": "",
+      "Name": "云4"
+    },
+    {
+      "Id": "ParamYun5",
+      "GroupId": "",
+      "Name": "云5"
+    },
+    {
+      "Id": "ParamYun6",
+      "GroupId": "",
+      "Name": "云6"
+    },
+    {
+      "Id": "ParamYun7",
+      "GroupId": "",
+      "Name": "云1B"
+    },
+    {
+      "Id": "ParamYun8",
+      "GroupId": "",
+      "Name": "云2B"
+    },
+    {
+      "Id": "ParamYun9",
+      "GroupId": "",
+      "Name": "云3B"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "ArtMesh106_Skinning",
+      "Name": "小腿R(蒙皮)"
+    },
+    {
+      "Id": "ArtMesh59_Skinning",
+      "Name": "脖子(蒙皮)"
+    },
+    {
+      "Id": "ArtMesh80_Skinning",
+      "Name": "小腿L(蒙皮)"
+    },
+    {
+      "Id": "Part",
+      "Name": "前景"
+    },
+    {
+      "Id": "Part10",
+      "Name": "手臂L"
+    },
+    {
+      "Id": "Part11",
+      "Name": "手臂R"
+    },
+    {
+      "Id": "Part12",
+      "Name": "腿L"
+    },
+    {
+      "Id": "Part13",
+      "Name": "黑布"
+    },
+    {
+      "Id": "Part14",
+      "Name": "身体"
+    },
+    {
+      "Id": "Part15",
+      "Name": "腿R"
+    },
+    {
+      "Id": "Part16",
+      "Name": "衣摆"
+    },
+    {
+      "Id": "Part17",
+      "Name": "后发"
+    },
+    {
+      "Id": "Part18",
+      "Name": "机械"
+    },
+    {
+      "Id": "Part19",
+      "Name": "小机械"
+    },
+    {
+      "Id": "Part2",
+      "Name": "光斑"
+    },
+    {
+      "Id": "Part20",
+      "Name": "大机械R"
+    },
+    {
+      "Id": "Part21",
+      "Name": "大机械L"
+    },
+    {
+      "Id": "Part22",
+      "Name": "机械上"
+    },
+    {
+      "Id": "Part23",
+      "Name": "背景"
+    },
+    {
+      "Id": "Part24",
+      "Name": "云"
+    },
+    {
+      "Id": "Part25",
+      "Name": "云B"
+    },
+    {
+      "Id": "Part3",
+      "Name": "光"
+    },
+    {
+      "Id": "Part32",
+      "Name": "粒子"
+    },
+    {
+      "Id": "Part4",
+      "Name": "人物"
+    },
+    {
+      "Id": "Part5",
+      "Name": "头"
+    },
+    {
+      "Id": "Part6",
+      "Name": "前发"
+    },
+    {
+      "Id": "Part7",
+      "Name": "脸"
+    },
+    {
+      "Id": "Part8",
+      "Name": "眉眼"
+    },
+    {
+      "Id": "Part9",
+      "Name": "嘴"
+    }
+  ]
+}

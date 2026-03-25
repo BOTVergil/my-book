@@ -1,0 +1,114 @@
+{
+  "Version": 3,
+  "Name": "L2D",
+  "FileReferences": {
+    "Moc": "L2D.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png",
+      "textures/texture_02.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": null,
+    "Motions": {
+      "login": [
+        {
+          "File": "motions/login.motion3.json"
+        }
+      ],
+      "normalA": [
+        {
+          "File": "motions/normalA.motion3.json"
+        }
+      ],
+      "normalB": [
+        {
+          "File": "motions/normalB.motion3.json"
+        }
+      ],
+      "normalN": [
+        {
+          "File": "motions/normalN.motion3.json"
+        }
+      ],
+      "repeat": [
+        {
+          "File": "motions/repeat.motion3.json"
+        }
+      ],
+      "soundOnlyAnim": [
+        {
+          "File": "motions/soundOnlyAnim.motion3.json"
+        }
+      ],
+      "touch_AB": [
+        {
+          "File": "motions/touch_AB.motion3.json"
+        }
+      ],
+      "touch_AN": [
+        {
+          "File": "motions/touch_AN.motion3.json"
+        }
+      ],
+      "touch_BN": [
+        {
+          "File": "motions/touch_BN.motion3.json"
+        }
+      ],
+      "touch_N1": [
+        {
+          "File": "motions/touch_N1.motion3.json"
+        }
+      ],
+      "touch_N2": [
+        {
+          "File": "motions/touch_N2.motion3.json"
+        }
+      ],
+      "touch_N3": [
+        {
+          "File": "motions/touch_N3.motion3.json"
+        }
+      ],
+      "touch_N4": [
+        {
+          "File": "motions/touch_N4.motion3.json"
+        }
+      ],
+      "touch_NA": [
+        {
+          "File": "motions/touch_NA.motion3.json"
+        }
+      ],
+      "touch_NShoeR1": [
+        {
+          "File": "motions/touch_NShoeR1.motion3.json"
+        }
+      ],
+      "touch_NShoeR2": [
+        {
+          "File": "motions/touch_NShoeR2.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

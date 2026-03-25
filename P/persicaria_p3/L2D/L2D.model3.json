@@ -1,14 +1,17 @@
 {
   "Version": 3,
-  "Name": "L2D",
+  "ConfVer": 0,
+  "Type": 0,
   "FileReferences": {
     "Moc": "L2D.moc3",
     "Textures": [
       "textures/texture_00.png",
       "textures/texture_01.png"
     ],
-    "DisplayInfo": null,
     "Physics": "L2D.physics3.json",
+    "PhysicsV2": {
+      "File": "L2D.physics3.json"
+    },
     "Motions": {
       "login_evening": [
         {
@@ -55,24 +58,79 @@
           "File": "motions/wait_1.motion3.json"
         }
       ]
-    },
-    "Expressions": []
-  },
-  "Groups": [
-    {
-      "Target": "Parameter",
-      "Name": "EyeBlink",
-      "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": [
-        "ParamMouthOpenY"
-      ]
     }
-  ]
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {},
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Items": [
+        {
+          "Id": "ParamEyeLOpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        },
+        {
+          "Id": "ParamEyeROpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0,
+      "Items": [
+        {
+          "Id": "ParamMouthOpenY",
+          "Min": 0.0,
+          "Max": 1.0,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "Enabled": true
+    },
+    "HandTracking": {},
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {}
+  },
+  "Options": {
+    "Name": "L2D",
+    "ScaleFactor": 25.0,
+    "TexType": 0
+  }
 }

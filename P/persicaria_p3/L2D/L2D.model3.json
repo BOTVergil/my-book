@@ -130,7 +130,7 @@
   },
   "Options": {
     "Name": "L2D",
-    "ScaleFactor": 25.0,
+    "ScaleFactor": 1.2999965,
     "TexType": 0
   }
 }

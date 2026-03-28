@@ -47,7 +47,10 @@ class Viewer {
             }
 
             this.model.update(deltaTime);
-            this.model.masks.update(this.app.renderer);
+            // 添加 masks 存在性检查
+            if (this.model.masks) {
+                this.model.masks.update(this.app.renderer);
+            }
         });
 
         window.onresize = (event) => {                 
@@ -60,8 +63,10 @@ class Viewer {
             if (this.model) {
                 this.model.position = new PIXI.Point((width * 0.5), (height * 0.5));
                 this.model.scale = new PIXI.Point((this.model.position.x * 0.06), (this.model.position.x * 0.06));
-                this.model.masks.resize(this.app.view.width, this.app.view.height);
-
+                // 添加 masks 存在性检查
+                if (this.model.masks) {
+                    this.model.masks.resize(this.app.view.width, this.app.view.height);
+                }
             }
 
         };
@@ -128,7 +133,10 @@ class Viewer {
         this.model.animator.addLayer("base", LIVE2DCUBISMFRAMEWORK.BuiltinAnimationBlenders.OVERRIDE, 1);
 
         this.app.stage.addChild(this.model);
-        this.app.stage.addChild(this.model.masks);
+        // 添加 masks 存在性检查
+        if (this.model.masks) {
+            this.app.stage.addChild(this.model.masks);
+        }
 
         window.onresize();
     }
@@ -151,7 +159,8 @@ class Viewer {
             this.addParameterValueById("ParamEyeBallY", -this.pointerY);
         }
 
-        if (this._physicsRig) {
+        // 修复：添加物理系统存在性检查
+        if (this._physicsRig && this._physicsRig.updateAndEvaluate) {
             this._physicsRig.updateAndEvaluate(deltaTime);
         }
 

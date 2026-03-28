@@ -1,92 +1,229 @@
 {
   "Version": 3,
-  "Name": "L2D",
+  "ConfVer": 0,
+  "Type": 0,
   "FileReferences": {
     "Moc": "L2D.moc3",
     "Textures": [
       "textures/texture_00.png"
     ],
-    "DisplayInfo": null,
-    "Physics": null,
+    "PhysicsV2": {},
     "Motions": {
-      "buy_1": [
+      "Start": [
         {
-          "File": "motions/buy_1.motion3.json"
+          "Name": "1",
+          "File": "motions/login_1.motion3.json",
+          "Sound": "sounds/login.wav",
+          "Text": "这世上只有教授您想不到的东西，没有理子找不到的！"
+        },
+        {
+          "Name": "2",
+          "File": "motions/login_1.motion3.json",
+          "Sound": "sounds/login1.wav",
+          "Text": "怎么样，教授？不来买点什么吗？理子已经听到支付到账的声音了哦——就是那种‘叮铃’的一声！"
         }
       ],
-      "buy_2": [
+      "Taphead": [
         {
-          "File": "motions/buy_2.motion3.json"
+          "File": "motions/touch_2.motion3.json",
+          "Sound": "sounds/touch2.wav",
+          "Text": "嗯嗯……理子喜欢被揉耳朵呢！",
+          "NextMtn": "123"
+        },
+        {
+          "File": "motions/buy_1.motion3.json",
+          "Sound": "sounds/buy1.wav",
+          "Text": "哼~哼哼~！理子推荐的东西不错吧！假~一~赔~十",
+          "NextMtn": "123"
         }
       ],
-      "buy_3": [
+      "Leave40_20_40": [
         {
-          "File": "motions/buy_3.motion3.json"
+          "File": "motions/wait_2.motion3.json",
+          "Sound": "sounds/wait2.wav",
+          "Text": "这个怎么样？诶，不喜欢这个？那这个呢？唔……还是不喜欢吗？那这个呢……够了够了够了！你是来买东西的还是来作弄我的！",
+          "NextMtn": "123"
+        },
+        {
+          "File": "motions/wait_1.motion3.json",
+          "Sound": "sounds/wait1.wav",
+          "Text": "让我看看，今天的营业额一共有……咦，理子的钱包去哪了？！难不成是被猫猫偷走了！……呼，原来是在这儿，吓死理子了。",
+          "NextMtn": "123"
+        },
+        {
+          "File": "motions/buy_3.motion3.json",
+          "Sound": "sounds/buy3.wav",
+          "Text": "哇！好厉害！原来教授是个隐藏的富豪啊！",
+          "NextMtn": "123"
         }
       ],
-      "buy_4": [
+      "TapBody": [
         {
-          "File": "motions/buy_4.motion3.json"
+          "File": "motions/touch_1.motion3.json",
+          "Sound": "sounds/touch1.wav",
+          "Text": "诶诶！教授你在干什么呀！",
+          "NextMtn": "123"
+        },
+        {
+          "File": "motions/buy_4.motion3.json",
+          "Sound": "sounds/buy4.wav",
+          "Text": "好、好多好多钱！让理子冷静一下……",
+          "NextMtn": "123"
         }
       ],
-      "login_1": [
+      "TapBackpack": [
         {
-          "File": "motions/login_1.motion3.json"
+          "File": "motions/touch_3.motion3.json",
+          "Sound": "sounds/touch3.wav",
+          "Text": "别……别随便乱碰商品呀！要付钱的！",
+          "NextMtn": "123"
+        },
+        {
+          "File": "motions/buy_2.motion3.json",
+          "Sound": "sounds/buy2.wav",
+          "Text": "听到底格币哗啦啦滚进钱包的声音，理子对教授的好感度也上升了呢~",
+          "NextMtn": "123"
         }
       ],
-      "login_2": [
+      "123": [
         {
-          "File": "motions/login_2.motion3.json"
+          "File": "motions/normal.motion3.json",
+          "WrapMode": 2
         }
-      ],
-      "normal": [
-        {
-          "File": "motions/normal.motion3.json"
-        }
-      ],
-      "touch_1": [
-        {
-          "File": "motions/touch_1.motion3.json"
-        }
-      ],
-      "touch_2": [
-        {
-          "File": "motions/touch_2.motion3.json"
-        }
-      ],
-      "touch_3": [
-        {
-          "File": "motions/touch_3.motion3.json"
-        }
-      ],
-      "wait_1": [
-        {
-          "File": "motions/wait_1.motion3.json"
-        }
-      ],
-      "wait_2": [
-        {
-          "File": "motions/wait_2.motion3.json"
-        }
-      ]
-    },
-    "Expressions": []
-  },
-  "Groups": [
-    {
-      "Target": "Parameter",
-      "Name": "EyeBlink",
-      "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": [
-        "ParamMouthOpenY"
       ]
     }
-  ]
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {},
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Items": [
+        {
+          "Id": "ParamEyeLOpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        },
+        {
+          "Id": "ParamEyeROpen",
+          "Min": 0.0,
+          "Max": 1.0,
+          "BlendMode": 2,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0,
+      "Items": [
+        {
+          "Id": "ParamMouthOpenY",
+          "Min": 0.0,
+          "Max": 1.0,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "Enabled": true
+    },
+    "HandTracking": {},
+    "ParamValue": {
+      "Items": [
+        {
+          "Name": "waittime",
+          "Text": "waittime",
+          "KeyValues": [
+            {
+              "Key": "wait",
+              "Value": 0.0
+            }
+          ],
+          "Hidden": true
+        }
+      ]
+    },
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {}
+  },
+  "HitAreas": [
+    {
+      "Name": "head",
+      "Id": "ArtMesh0",
+      "Order": 1,
+      "Motion": "Taphead"
+    },
+    {
+      "Name": "ArtMesh1",
+      "Id": "ArtMesh1",
+      "Order": 1,
+      "Motion": "Taphead"
+    },
+    {
+      "Name": "ArtMesh3",
+      "Id": "ArtMesh3",
+      "Order": 1,
+      "Motion": "Taphead"
+    },
+    {
+      "Name": "ArtMesh4",
+      "Id": "ArtMesh4",
+      "Order": 1,
+      "Motion": "Taphead"
+    },
+    {
+      "Name": "ArtMesh61",
+      "Id": "ArtMesh61",
+      "Order": 1,
+      "Motion": "TapBody"
+    },
+    {
+      "Name": "ArtMesh95",
+      "Id": "ArtMesh95",
+      "Motion": "TapBackpack"
+    },
+    {
+      "Name": "ArtMesh103",
+      "Id": "ArtMesh103",
+      "Motion": "TapBackpack"
+    },
+    {
+      "Name": "ArtMesh102",
+      "Id": "ArtMesh102",
+      "Motion": "TapBackpack"
+    }
+  ],
+  "Options": {
+    "Name": "L2D",
+    "TexType": 0
+  }
 }

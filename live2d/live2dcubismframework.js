@@ -847,7 +847,7 @@ var LIVE2DCUBISMFRAMEWORK;
                 return;
             }
             this._subRigs = new Array();
-            physics3Json['PhysicsSettings'].forEach(function (r) {
+            (physics3Json?.['PhysicsSettings'] || []).forEach(function (r) {
                 var input = new Array();
                 r['Input'].forEach(function (i) {
                     var factor = new PhysicsFactorTuple(1, 0, 0);

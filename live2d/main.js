@@ -95,7 +95,7 @@ class Viewer {
                 } else if (this.isHit('TouchSpecial', event.offsetX, event.offsetY)) {
                     this.startAnimation("login_night", "base");
                 } else {
-                    const bodyMotions = ["touch_1", "touch_2", "touch_3", "normal"];
+                    const bodyMotions = ["touch_1", "touch_2", "touch_3", "normal", "wait_1"];
                     let currentMotion = bodyMotions[Math.floor(Math.random()*bodyMotions.length)];
                     this.startAnimation(currentMotion, "base");
                 }

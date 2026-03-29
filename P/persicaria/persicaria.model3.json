@@ -1,57 +1,143 @@
 {
   "Version": 3,
+  "ConfVer": 0,
+  "Type": 0,
   "FileReferences": {
     "Moc": "L2D.moc3",
     "Textures": [
       "textures/texture_00.png",
       "textures/texture_01.png"
     ],
-    "Physics": null,
+    "PhysicsV2": {},
     "Motions": {
-      "": [
+      "StartDay": [
         {
-          "File": "motions/login_evening.motion3.json"
+          "File": "motions/login_morining.motion3.json",
+          "Sound": "sounds/mornign.wav"
+        }
+      ],
+      "StartNoon": [
+        {
+          "File": "motions/login_noon.motion3.json",
+          "Sound": "sounds/afternoon.wav"
+        }
+      ],
+      "StartNight": [
+        {
+          "File": "motions/login_evening.motion3.json",
+          "Sound": "sounds/evening.wav"
+        }
+      ],
+      "StartMidnight": [
+        {
+          "File": "motions/login_night.motion3.json",
+          "Sound": "sounds/midnight.wav"
+        }
+      ],
+      "Start": [
+        {
+          "File": "motions/login_evening.motion3.json",
+          "Sound": "sounds/evening.wav"
         },
         {
-          "File": "motions/login_morining.motion3.json"
+          "File": "motions/login_morining.motion3.json",
+          "Sound": "sounds/mornign.wav"
         },
         {
-          "File": "motions/login_night.motion3.json"
+          "File": "motions/login_night.motion3.json",
+          "Sound": "sounds/midnight.wav"
         },
         {
-          "File": "motions/login_noon.motion3.json"
+          "File": "motions/login_noon.motion3.json",
+          "Sound": "sounds/afternoon.wav"
+        }
+      ],
+      "Tap": [
+        {
+          "File": "motions/touch_1.motion3.json",
+          "Sound": "sounds/hd1.wav"
         },
         {
-          "File": "motions/normal.motion3.json"
+          "File": "motions/touch_2.motion3.json",
+          "Sound": "sounds/hd2.wav"
         },
         {
-          "File": "motions/touch_1.motion3.json"
-        },
-        {
-          "File": "motions/touch_2.motion3.json"
-        },
-        {
-          "File": "motions/touch_3.motion3.json"
-        },
-        {
-          "File": "motions/wait_1.motion3.json"
-        },
-        {
-          "File": "motions/wait_2.motion3.json"
-        },
-        {
-          "File": "motions/wait_3.motion3.json"
+          "File": "motions/touch_3.motion3.json",
+          "Sound": "sounds/hd3.wav"
         }
       ]
     }
   },
-  "Groups": [
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {},
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0,
+      "Items": [
+        {
+          "Id": "ParamMouthOpenY",
+          "Min": 0.0,
+          "Max": 1.0,
+          "Input": 0
+        }
+      ],
+      "Enabled": true
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "Enabled": true
+    },
+    "HandTracking": {},
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {}
+  },
+  "HitAreas": [
     {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": [
-        "ParamMouthOpenY"
-      ]
+      "Name": "HitAreaHead",
+      "Id": "HitAreaHead",
+      "Motion": "Tap"
+    },
+    {
+      "Name": "HitAreaBody",
+      "Id": "HitAreaBody",
+      "Motion": "Tap"
+    },
+    {
+      "Name": "HitAreaLeg",
+      "Id": "HitAreaLeg",
+      "Motion": "Tap"
     }
-  ]
+  ],
+  "Options": {
+    "TexType": 0
+  }
 }

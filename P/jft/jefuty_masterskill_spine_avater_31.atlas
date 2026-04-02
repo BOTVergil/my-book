@@ -1,0 +1,335 @@
+
+jefuty_masterskill_spine_avater_31.png
+size: 1985,1969
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 376, 53
+  size: 435, 71
+  orig: 477, 71
+  offset: 42, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 57
+  size: 372, 215
+  orig: 373, 225
+  offset: 0, 10
+  index: -1
+3111
+  rotate: false
+  xy: 977, 506
+  size: 391, 186
+  orig: 403, 199
+  offset: 12, 0
+  index: -1
+34
+  rotate: false
+  xy: 2, 1428
+  size: 1010, 539
+  orig: 1010, 539
+  offset: 0, 0
+  index: -1
+35
+  rotate: false
+  xy: 445, 199
+  size: 530, 544
+  orig: 530, 544
+  offset: 0, 0
+  index: -1
+36
+  rotate: true
+  xy: 1437, 677
+  size: 293, 301
+  orig: 293, 301
+  offset: 0, 0
+  index: -1
+38
+  rotate: true
+  xy: 869, 816
+  size: 610, 238
+  orig: 610, 238
+  offset: 0, 0
+  index: -1
+39
+  rotate: true
+  xy: 2, 274
+  size: 1152, 380
+  orig: 1152, 380
+  offset: 0, 0
+  index: -1
+40
+  rotate: true
+  xy: 384, 296
+  size: 1130, 59
+  orig: 1131, 59
+  offset: 1, 0
+  index: -1
+41
+  rotate: true
+  xy: 1734, 1483
+  size: 484, 187
+  orig: 484, 187
+  offset: 0, 0
+  index: -1
+42
+  rotate: true
+  xy: 1840, 1185
+  size: 296, 143
+  orig: 296, 143
+  offset: 0, 0
+  index: -1
+XJFT1
+  rotate: true
+  xy: 856, 63
+  size: 134, 108
+  orig: 134, 108
+  offset: 0, 0
+  index: -1
+XJFT10
+  rotate: true
+  xy: 977, 275
+  size: 229, 339
+  orig: 229, 339
+  offset: 0, 0
+  index: -1
+XJFT11
+  rotate: true
+  xy: 1265, 154
+  size: 104, 351
+  orig: 104, 351
+  offset: 0, 0
+  index: -1
+XJFT12
+  rotate: true
+  xy: 869, 745
+  size: 69, 130
+  orig: 69, 130
+  offset: 0, 0
+  index: -1
+XJFT13
+  rotate: false
+  xy: 2, 22
+  size: 108, 33
+  orig: 108, 33
+  offset: 0, 0
+  index: -1
+XJFT14
+  rotate: false
+  xy: 1014, 1428
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+XJFT15
+  rotate: false
+  xy: 384, 274
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+XJFT16
+  rotate: false
+  xy: 1701, 32
+  size: 50, 39
+  orig: 53, 39
+  offset: 3, 0
+  index: -1
+XJFT17
+  rotate: false
+  xy: 1701, 2
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+XJFT18
+  rotate: true
+  xy: 813, 77
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+XJFT19
+  rotate: false
+  xy: 376, 246
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+XJFT2
+  rotate: true
+  xy: 1618, 154
+  size: 107, 158
+  orig: 178, 192
+  offset: 0, 34
+  index: -1
+XJFT20
+  rotate: true
+  xy: 1923, 1825
+  size: 142, 57
+  orig: 143, 58
+  offset: 0, 1
+  index: -1
+XJFT21
+  rotate: true
+  xy: 1001, 774
+  size: 40, 75
+  orig: 40, 77
+  offset: 0, 2
+  index: -1
+XJFT22
+  rotate: true
+  xy: 1923, 1758
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+XJFT23
+  rotate: true
+  xy: 1976, 188
+  size: 41, 7
+  orig: 41, 7
+  offset: 0, 0
+  index: -1
+XJFT24
+  rotate: true
+  xy: 1318, 260
+  size: 239, 294
+  orig: 239, 294
+  offset: 0, 0
+  index: -1
+XJFT26
+  rotate: true
+  xy: 1370, 501
+  size: 174, 347
+  orig: 193, 347
+  offset: 15, 0
+  index: -1
+XJFT27
+  rotate: true
+  xy: 1437, 972
+  size: 488, 401
+  orig: 604, 417
+  offset: 116, 16
+  index: -1
+XJFT28
+  rotate: true
+  xy: 1109, 694
+  size: 766, 326
+  orig: 766, 346
+  offset: 0, 0
+  index: -1
+XJFT29
+  rotate: false
+  xy: 1014, 1462
+  size: 718, 505
+  orig: 718, 505
+  offset: 0, 0
+  index: -1
+XJFT3
+  rotate: false
+  xy: 1885, 594
+  size: 71, 155
+  orig: 74, 155
+  offset: 0, 0
+  index: -1
+XJFT30
+  rotate: true
+  xy: 445, 745
+  size: 681, 422
+  orig: 681, 422
+  offset: 0, 0
+  index: -1
+XJFT4
+  rotate: true
+  xy: 1701, 73
+  size: 73, 190
+  orig: 73, 190
+  offset: 0, 0
+  index: -1
+XJFT5
+  rotate: true
+  xy: 1778, 148
+  size: 81, 196
+  orig: 81, 196
+  offset: 0, 0
+  index: -1
+XJFT6
+  rotate: false
+  xy: 1826, 231
+  size: 156, 274
+  orig: 156, 274
+  offset: 0, 0
+  index: -1
+XJFT7
+  rotate: false
+  xy: 1614, 263
+  size: 210, 236
+  orig: 210, 239
+  offset: 0, 0
+  index: -1
+XJFT8
+  rotate: false
+  xy: 977, 12
+  size: 286, 261
+  orig: 311, 363
+  offset: 25, 0
+  index: -1
+XJFT9
+  rotate: true
+  xy: 1740, 675
+  size: 295, 117
+  orig: 295, 122
+  offset: 0, 5
+  index: -1
+guang1
+  rotate: false
+  xy: 1893, 73
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 1893, 73
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+wang
+  rotate: true
+  xy: 1719, 507
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1
+洁芙缇神迹宣言日文
+  rotate: false
+  xy: 1265, 81
+  size: 434, 71
+  orig: 434, 71
+  offset: 0, 0
+  index: -1
+洁芙缇神迹宣言繁体
+  rotate: false
+  xy: 1265, 8
+  size: 434, 71
+  orig: 434, 71
+  offset: 0, 0
+  index: -1
+洁芙缇神迹宣言英文
+  rotate: false
+  xy: 376, 126
+  size: 478, 71
+  orig: 478, 71
+  offset: 0, 0
+  index: -1
+洁芙缇神迹宣言韩文
+  rotate: true
+  xy: 1859, 751
+  size: 432, 71
+  orig: 432, 71
+  offset: 0, 0
+  index: -1
